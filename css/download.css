@@ -1,5 +1,6 @@
 @charset "utf-8";
 body{
+  background-image: url(img03.jpg);
   background-size: cover;
 }
 .movie {
