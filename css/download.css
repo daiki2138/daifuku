@@ -1,18 +1,13 @@
-h1{
-    margin-top: 100px;
-    font-size: 50px;
-    text-align: center;
-}
 @charset "utf-8";
-.menu {
+.movie {
   padding: 90px 0 60px;
   color: #5a5c5f;
 }
-.menu-card {
+.movie-card {
   width: 33%;
   margin-top: 35px;
 }
-.menu-card-inner {
+.movie-card-inner {
   padding: 25px 30px;
   background-color: #dbe0e4;
   border-radius: 7px;
@@ -20,18 +15,18 @@ h1{
   text-align: center;
   margin: 0 20px;
 }
-.menu-image {
+.movie-image {
   width: 100%;
   margin-bottom: 20px;
   border-radius: 5px;
 }
-.menu-title {
+.movie-title {
   margin-bottom: 8px;
 }
-.menu-text {
+.movie-text {
   font-size: 14px;
 }
-.menu-card-wrapper {
+.movie-card-wrapper {
   display: flex;
   flex-wrap: wrap;
 }
