@@ -154,19 +154,3 @@ iframe{
 .footer-left p {
   margin-bottom: 8px;
 }
-@media (max-width: 1024px){
-    .main-visual{
-        padding-top: 120px;
-        padding-bottom: 80px;
-    }
-    .twitter-timeline{
-        width: 100px;
-    }
-    .contents iframe{
-        width: 100px;
-    }
-    .btn-gnavi{
-        padding-rigtht:20px;
-    }
-}
-
