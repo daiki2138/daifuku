@@ -124,28 +124,35 @@ iframe{
 #wrapper .contents section#section03 {
     background-image: url(../images/img03.jpg)
 }
+@charset "utf-8";
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 980px;
+  padding: 0 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.clear{
+  clear: both;
+}
 .footer {
-  height: 70px;
+  height: 120px;
   background-color: #2f3a44;
   color: #e8e8e8;
   padding-top: 20px;
 }
 .footer-left {
   float: left;
-  padding-left: 30px;
 }
 .footer-right {
   float: right;
-  padding-top: 20px;
-  padding-right: 10px;
+  padding-top: 50px;
 }
 .footer-left p {
-    padding-left: 20px;
   margin-bottom: 8px;
-}
-.ad a{
-    margin-top: 20px;
-    margin-left: 40px;
 }
 @media (max-width: 1024px){
     .main-visual{
@@ -162,3 +169,4 @@ iframe{
         padding-rigtht:20px;
     }
 }
+
