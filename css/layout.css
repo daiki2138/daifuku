@@ -124,3 +124,41 @@ iframe{
 #wrapper .contents section#section03 {
     background-image: url(../images/img03.jpg)
 }
+.footer {
+  height: 70px;
+  background-color: #2f3a44;
+  color: #e8e8e8;
+  padding-top: 20px;
+}
+.footer-left {
+  float: left;
+  padding-left: 30px;
+}
+.footer-right {
+  float: right;
+  padding-top: 20px;
+  padding-right: 10px;
+}
+.footer-left p {
+    padding-left: 20px;
+  margin-bottom: 8px;
+}
+.ad a{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+@media (max-width: 1024px){
+    .main-visual{
+        padding-top: 120px;
+        padding-bottom: 80px;
+    }
+    .twitter-timeline{
+        width: 100px;
+    }
+    .contents iframe{
+        width: 100px;
+    }
+    .btn-gnavi{
+        padding-rigtht:20px;
+    }
+}
