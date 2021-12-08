@@ -1,4 +1,7 @@
 @charset "utf-8";
+body{
+  background-size: cover;
+}
 .movie {
   padding: 90px 0 60px;
   color: #5a5c5f;
