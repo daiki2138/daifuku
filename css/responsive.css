@@ -6,6 +6,9 @@
   .movie-card {
     width: 50%;
   }
+  .iframe {
+    width: 50%;
+  }
 }
 @media (max-width: 670px) {
   .main {
@@ -24,6 +27,9 @@
     width: 100%;
   }
   .contact input, .contact textarea {
+    width: 100%;
+  }
+  .iframe {
     width: 100%;
   }
 }
