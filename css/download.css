@@ -9,7 +9,9 @@ body{
   color: #5a5c5f;
 }
 .iframe{
-  padding-bottom: 56.25%
+    padding-bottom: 56.25%
+    width: 33%;
+    margin-top: 35px;
 }
 .movie-card {
   width: 33%;
